@@ -133,4 +133,3 @@ Running pods: 45
    - Single namespace = specific namespace
    - Comma-separated = multiple namespaces (whitespace trimmed)
 
-```
